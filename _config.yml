@@ -32,9 +32,14 @@ mastodon:
   instance: noagendasocial.com
 
 # Build settings
-theme: minima
+
+# removed minima theme to make regular theme
+# theme: minima
 plugins:
   - jekyll-feed
+
+# jrt: custom field that if used must have corresponding definition in theme files... https://www.youtube.com/watch?v=uo4JslyQelQ
+title-logo: /assets/zuetaka.jpg
 
 # Exclude from processing.
 # The following items will not be processed, by default.
