@@ -20,6 +20,7 @@
 
 title: Zuetaka.com
 email: zuetaka@messagebox.email
+author: John Zuetaka
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my site, currently under even more construction than before--powered by Jekyll, hosted on Github Pages.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,8 +28,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: oym
 github_username:  jtlinux
 mastodon:
-- username: jt
-  instance: linuxrocks.online
+- username: zuetaka
+  instance: noagendasocial.com
 
 # Build settings
 theme: minima
