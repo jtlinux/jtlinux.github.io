@@ -13,7 +13,7 @@ Mastodon is a federation of microblogging servers. While it's similar to Twitter
 There are different Mastodon instances (or servers) out there.
 They all generally talk with each other, so you can communicate with people on other instances. I'm mainly on the Linux Rocks instance at [linuxrocks.online](https://linuxrocks.online) but follow people from other instances as well, mainly [Fosstodon](https://fosstodon.org/) and the general [Mastodon.social](https://mastodon.social/) instance.
 
-![I've been lurking on Mastodon recently. It's so cool that you can explore various other instances through their "Discover users" pages. I gotta follow more people!](/assets/mastodon-toot.jpg "Mastodon toot")
+![Toot from @jt@linuxrocks.online reads as follows: I've been lurking on Mastodon recently. It's so cool that you can explore various other instances through their "Discover users" pages. I gotta follow more people!](/assets/mastodon-toot.jpg "Mastodon toot")
 
 ## Choosing a herd
 
