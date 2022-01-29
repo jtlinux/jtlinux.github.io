@@ -49,7 +49,9 @@ I decided on the Sonim XP3plus.
 
 The first boot of my new phone, the Sonim XP3plus, was a refreshing experience. No accounts to create or sign in to. Once I got the SIM card set up, I had to manually transfer my contacts onto the phone via VCF file over USB.
 
-![Picture of a Sonim XP3plus flip phone: Sonim logo, external screen, camera, torch, a speaker, multiple external buttons, and screws holding the phone body together. External screen shows time of 1:43 PM, Fri, Jan 28.](/assets/sonim_xp3plus.jpg)
+| ![Picture of a Sonim XP3plus flip phone: Sonim logo, external screen, camera, torch, a speaker, multiple external buttons, and screws holding the phone body together. External screen shows time of 1:43 PM, Fri, Jan 28.](/assets/sonim_xp3plus.jpg) |
+|:--:|
+| *The Sonim XP3plus* |
 
 The phone is a phone first. There are 3 utilities available by default on the home screen: Messaging, Contacts, and Camera. I thought Sonim should have made it easier to open the Phone utility so I could make a call. But I realized I could just type numbers on the number pad to dial a phone number... (It was a while since I used anything other than a smart phone.) The phone also simultaneously interprets the numbers as T9 letters, so you can type in a person's name on the number pad and it well let you select the person's name to call them; it will also suggest a full number from your contacts based on the numbers you've typed; or you can just press the green call button right away to call the raw number you typed in.
 
@@ -57,7 +59,9 @@ The Sonim XP3plus is not a dumbphone proper, but a feature phone. It includes se
 
 I was especially impressed by the music player. I thought I might not be able to use the phone as a podcast player, but I discovered that the file system has a folder called "Podcasts". I decided to stick a podcast file in there for the heck of it (I thought it would prove to be just a relic of AOSP). When I opened the music player, I found that it automatically created a playlist called "Podcasts" and that it put the podcast file in there. The music player remembers the playback position of each podcast, so you can resume listening later. There is no way to subscribe to podcasts in the music player, so I manually transfer the files from my computer.
 
-![Screenshot of the music player's podcast playlist, with episodes from No Agenda, Linux Unplugged, and some other podcasts.](/assets/sonim_music_podcast_playlist.png){: .center-image }
+| ![Screenshot of the music player's podcast playlist, with episodes from No Agenda, Linux Unplugged, and some other podcasts.](/assets/sonim_music_podcast_playlist.png) |
+|:--:|
+| *A podcast playlist on the XP3plus* |
 
 There is no app store on the device, but you are able to install apps via [ADB](https://developer.android.com/studio/command-line/adb) (Android Debug Bridge). I tried out a few 2FA apps from [F-Droid](https://f-droid.org/). I ran into problems with all of them because of the lack of a touchscreen, but one is very usable. I also installed K-9 Mail and am figuring out if I want to keep it installed. I was surprised by how well it works considering the experience I had with the 2FA apps and how much more complicated a mail program is compared to an 2FA program.
 
