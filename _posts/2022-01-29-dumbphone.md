@@ -4,7 +4,7 @@ title: "Dumbphone: My search for a less smart phone"
 date: 2022-01-29
 category: blog
 tag: tech
-excerpt: At the end of December, I set out to find a new phone. I had dropped my phone a couple months earlier, cracking the screen. But even before then, it wasn't working as a phone. For as long as could remember with it, the microphone didn't work in the phone app. It didn't seem to be a settings issue, or a firmware or software issue. I worked around the broken microphone by using a headset for work calls and the speakerphone for personal calls. I probably could have gone on for a while more using the phone like this, but other parts of smartphone life began to wear me out...
+excerpt: At the end of December, I set out to find a new phone. I had dropped my phone a couple months earlier, cracking the screen. But even before then, it wasn't working as a phone. For as long as could remember with it, the microphone didn't work in the phone app. It didn't seem to be a settings issue, or a firmware or software issue. I worked around the broken microphone by using a headset for work calls and the speakerphone for personal calls. I probably could have gone on for a while more using the phone like this, but other parts of smartphone life began to wear me out.
 
 ---
 

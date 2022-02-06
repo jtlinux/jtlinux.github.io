@@ -21,7 +21,7 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-          {{ post.excerpt }}
+          {{ post.excerpt }} <a href="{{ post.url | relative_url }}">Read on...</a>
       </li>
       {%- endfor -%}
     </ul>
